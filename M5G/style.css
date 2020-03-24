@@ -1,0 +1,42 @@
+table {
+    position: relative;
+    top: 20px;
+    width: 98%;
+    left: 15px;
+    border: 5px solid black;
+    font-size: large;
+    color: black;
+}
+td {
+    border: 3px solid red;
+    border-color: #BC4545;
+    width: 75px;
+    height: 60px;
+    margin-top: 1px;
+    white-space: pre;
+}
+.button {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    padding: 15px 10px;
+    width: 15%
+}
+
+.loginButton {
+    background-color: #15943B;
+}
+.logoutButton {
+    background-color: #D26109; 
+    position: relative;
+    left: 30px;
+    margin-right: 100px;
+}
+.changeMonth {
+    background-color: #164A68;
+    margin-left: 100px;
+}
+.addEvent {
+    background-color: #B686DB;
+    margin-left: 120px;
+}
